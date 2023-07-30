@@ -7,4 +7,9 @@ public class hw1 {
 		System.out.println("Homework");
 	}
 
+	public static addInfo();
+
+		System.out.println("Adding Info in GitHUb");
+
+	}
 }

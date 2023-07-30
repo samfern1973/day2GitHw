@@ -7,9 +7,15 @@ public class hw1 {
 		System.out.println("Homework");
 	}
 
-	public static addInfo();
+	public static void addInfo() {
 
 		System.out.println("Adding Info in GitHUb");
+	}
+	
+	public void moreInfo() {
+	
+	System.out.println("Adding info for stashing");
+	
 
 	}
 }
